@@ -25,5 +25,5 @@ Users can view movie details, browse trending titles, and add movies to their **
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/react-movie-project.git
+   git clone https://github.com/ZaurezAlam/React_Movie_Project.git
    cd react-movie-project
